@@ -1,0 +1,31 @@
+CONDITIONS D’UTILISATION :
+Intel Pentium IV (ou équivalent) ; PowerMac G5 ; 2 GHz (recommandé : >2 GHz)
+1 GB de RAM (recommandé : >2 GB)
+Carte graphique : 256 MB (recommandé : 512 MB)
+Résolution de l’écran : 1024x768 pixels
+Haut-parleurs
+
+Systèmes d’exploitation :
+-	Windows 98, NT, 2000, XP, Vista et Windows 7. 
+-	Mac OS9 et Mac OSX.
+-	Linux.
+
+INSTRUCTIONS D’UTILISATION :
+-	Microsoft Windows
+Ouvrez le fichier exeWin.exe pour démarrer.
+
+-	Linux 32 bits
+Ouvrez le fichier exeLinux pour démarrer.
+
+-	Linux 64 bits
+Veuillez noter que le logiciel gratuit WINE est nécessaire pour l’utilisation de ce produit sous Linux 64 bits. 
+Ouvrez le fichier exeWin.exe pour démarrer. 
+
+-	Mac
+Ouvrez le fichier exeMac.app pour démarrer.
+
+[Le programme peut également être démarré en ouvrant le fichier exeBrowser.htm avec votre navigateur. Pour cela, Flash player 8.0 ou une version plus récente doit déjà être installée. Certaines fonctions pourraient ne pas être disponibles avec la visualisation via le navigateur.]
+
+Pour un bon fonctionnement, veuillez, s’il vous plaît, décompresser le fichier .zip dans un dossier dont le chemin d’accès ne comprend aucun caractère spécial (accents, « ç », « ñ »…).
+Sous Linux, il est recommandé de ne pas décompresser le fichier .zip dans un dossier avec plus de quatre niveaux de stockage.
+

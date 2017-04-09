@@ -1,0 +1,4 @@
+[autorun]
+open=exeWin.exe
+icon=recursos\icono.ico
+defaulticon=recursos\icono.ico
